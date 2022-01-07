@@ -35,6 +35,7 @@
 
  1. 为应用绑定域名，并将该域名接入 CloudFlare
  2. 通过 CloudFlare Workers 反向代理
+ 3. IP选择 https://github.com/badafans/better-cloudflare-ip
 
 ## 注意
 
